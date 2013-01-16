@@ -1,5 +1,11 @@
 * Works on Linux (Ubuntu)
 * Compiles just by using make
-* ./raytracer
+* ./loop
 * Got pieces from several places in the web. Everything works nicely
-  
+====================================================================  
+Final project video looks like this:
+http://www.youtube.com/watch?v=nbm45pk1bTo&feature=player_embedded
+
+This is the solution to a problem posted
+
+Solution to Assignment 3 from here http://cs.nyu.edu/~dzorin/cg11/assignments.html

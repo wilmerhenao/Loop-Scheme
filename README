@@ -1,0 +1,5 @@
+* Works on Linux (Ubuntu)
+* Compiles just by using make
+* ./raytracer
+* Got pieces from several places in the web. Everything works nicely
+  
